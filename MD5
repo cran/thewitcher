@@ -1,12 +1,13 @@
-3ae891738e5d63fb8112711835616be3 *DESCRIPTION
+8f8280e52dc3f96d2f6de3b5904fba16 *DESCRIPTION
 859b5090e488e846c78c8efc433eb36a *LICENSE
 8a944365a7485f400731dd3601e214d6 *NAMESPACE
-cc1e227d9b83ad4fb5b41c18205b5e54 *R/generate_data.R
-26607ba2b95a7df32ffcf79ca71e196d *R/sysdata.rda
+fb4315df17f606206c2bc429c116feae *NEWS.md
+ac51ea4b2977c6e5ce3060ba22d42d3f *R/generate_data.R
+be3ca28fdd9cb913eda00649653053bd *R/sysdata.rda
 b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
 c713a1093061f89d03da1688a015bbc6 *R/witcher_spells.R
-864177242bb80ad72ab4b325f06f7902 *README.md
-862c030d3d801b7ccfff0c173d586090 *data/witcher_palettes.rda
+72666adb046c06c5cb4a0447caa915d4 *README.md
+c397aa50a248fa1f52bcc67682f86524 *data/witcher_palettes.rda
 dee5ca2eb943566d4a545fa1185d2410 *man/complete_palette.Rd
 5292ddc1bada288a73d4e1f92c6afe33 *man/figures/README-unnamed-chunk-10-1.png
 8b8154100b94fdf8882697bfaeecf8a0 *man/figures/README-unnamed-chunk-11-1.png
@@ -25,4 +26,4 @@ f7fa64aaf5a8ee85c6f66a968095d1ee *man/figures/README-unnamed-chunk-7-1.png
 c74991c06d893f9bde1c3a36dceadafb *man/scale_witcher.Rd
 7ff1a90f0de53b0b4e2ecb1ec4265ce4 *man/witcher.Rd
 47baf2da78c2674a5d3ba6a912aec7fd *man/witcher.map.Rd
-eee139194b2e914596641b48be6c7717 *man/witcher_palettes.Rd
+f1cbfedaa9388e6bd9b985cecd37de68 *man/witcher_palettes.Rd
